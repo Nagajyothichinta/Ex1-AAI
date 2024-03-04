@@ -1,5 +1,6 @@
-![image](https://github.com/Nagajyothichinta/Ex1-AAI/assets/94191344/5ccf3192-86ec-410e-8ec6-693ea2a925e7)![image](https://github.com/Nagajyothichinta/Ex1-AAI/assets/94191344/a96ea9c9-da31-460a-892d-3749e8a46603)<H3> Name </H3>
-<H3>Register No.</H3>
+![image](https://github.com/Nagajyothichinta/Ex1-AAI/assets/94191344/5ccf3192-86ec-410e-8ec6-693ea2a925e7)![image](https://github.com/Nagajyothichinta/Ex1-AAI/assets/94191344/a96ea9c9-da31-460a-892d-3749e8a46603)<H3>
+Name :Ch.Nagajyothi</H3>
+<H3>Register No:212221230015</H3>
 <H3> Experiment 1</H3>
 <H3>DATE:</H3>
 <H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
