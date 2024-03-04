@@ -3,9 +3,12 @@
 <H3> Experiment 1</H3>
 <H3>DATE:22/2/24</H3>
 <H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
+```
 ## Aim :
     To create a bayesian Network for the given dataset in Python
+```
 ## Algorithm:
+```
 Step 1:Import necessary libraries: pandas, networkx, matplotlib.pyplot, Bbn, Edge, EdgeType, BbnNode, Variable, EvidenceBuilder, InferenceController<br/>
 Step 2:Set pandas options to display more columns<br/>
 Step 3:Read in weather data from a CSV file using pandas<br/>
@@ -20,6 +23,7 @@ Step 11:Set node positions for the graph<br/>
 Step 12:Set options for the graph appearance<br/>
 Step 13:Generate the graph using networkx<br/>
 Step 14:Update margins and display the graph using matplotlib.pyplot<br/>
+```
 
 ## Program:
 ```
